@@ -1,0 +1,17 @@
+{
+  "user":[
+    {"id":1,"phone":"17858959662","password":"qwe123"}
+  ],
+  "miniProgram":[
+    {"id":1,"name":"达咖","appId":"wx9676e5a723951d1a","appSecret":"3c699ba347d45fc71413f55fcdac2277","status":"1","createTime":"2019-12-05 17:00:31",
+      "config":{"titleBar":{
+          "frontColor":"#ffffff",
+          "backgroundColor":"#444444",
+          "text":"达咖"
+        },
+        "":""
+
+      }
+    }
+  ]
+}
